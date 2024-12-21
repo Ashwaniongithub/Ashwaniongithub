@@ -1,6 +1,7 @@
 # 💫About Me :
-Hi 👋! My name is Ashwani hada and I'm a Full Stack Developer 
-from Rajasthan , India.
+Hi 👋! My name is Ashwani hada and I'm a Full Stack Developer from Rajasthan , India . 
+ 2+ Years of Experience in Tech . I have done and doing many project so far
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwani-hada-130916336/) 
